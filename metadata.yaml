@@ -5,6 +5,9 @@ contributor:
     agent_name: Fishbein, Morris
     gutenberg_agent_id: '54576'
     url: http://www.gutenberg.org/2009/agents/54576
+covers:
+- cover_type: archival
+  image_path: 68032-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilder, Russell M. (Russell Morse)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/486
     wikipedia: https://en.wikipedia.org/wiki/E._Haldeman-Julius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68032#Diabetes-Its-Cause-and-Its-Treatment-With-Insulin
 gutenberg_issued: '2022-05-09'
 identifiers:
   gutenberg: '68032'
